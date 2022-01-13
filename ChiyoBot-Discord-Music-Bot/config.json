@@ -1,6 +1,6 @@
 {
- "TOKEN": "Masukan token disini",
- "YOUTUBE_API_KEY": "Masukan API Key anda",
+ "TOKEN": "Your Token goes here",
+ "YOUTUBE_API_KEY": "Input your API Key here",
   "SOUNDCLOUD_CLIENT_ID": "",
   "MAX_PLAYLIST_SIZE": 10,
   "PREFIX": "ei",

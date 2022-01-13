@@ -67,7 +67,7 @@ Currently available locales are:
 `/search Imperial March Trap Remix by Goblins from Mars`
 
 
-Main Credits go to [@eritislami](https://github.com/eritislami) for making evobot so pro..
-Get evobot repo here - 
+Main Credits go to [@eritislami](https://github.com/eritislami) for making this Music Bot so pro..
+Get Music Bot repo here - 
 https://github.com/eritislami/evobot
 

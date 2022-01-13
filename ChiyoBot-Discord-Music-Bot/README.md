@@ -1,6 +1,6 @@
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/eritislami/evobot)
 
-# 🎵 ProMusic (Discord Music Bot)
+# 🎵 Discord Music Bot
 > ProMusic is a bot made using discord.js [discordjs.guide](https://discordjs.guide)
 
 ## Installation
@@ -22,13 +22,15 @@ Type (npm i) in console
 
 🚨🚨 **Commiting your token to be accessed by others or making it public is strictly prohibited.So, dont share your token in any cost or use .gitignore to hide secrets** 🚨🚨
 
+You can edit prefix, Token from discord developer, and Youtube API Key in the **config.json**
+
 ```json
 {
   "TOKEN": "",
   "YOUTUBE_API_KEY": "",
   "SOUNDCLOUD_CLIENT_ID": "",
   "MAX_PLAYLIST_SIZE": 10,
-  "PREFIX": "/",
+  "PREFIX": "ei",
   "PRUNING": false,
   "STAY_TIME": 30,
   "LOCALE": "en",
@@ -50,7 +52,7 @@ Currently available locales are:
 
 ## 📝 Features & Commands
 
-> Note: The default prefix is '/'
+> Note: The default prefix is 'ei'
 
 * 🎶 Using YouTube Url
 
